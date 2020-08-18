@@ -17,4 +17,5 @@ Some Information REgarding the Teams in IPL
 7.Deccan Chargers played from (2008-2012)..The Team was permanently banned in 2012. Deccan Chargers were Replaced by Sunrisers Hyderabad from 2013. Maximum Players were Retained.
 
 Data source : for 2008-2017 - CricSheet.org and Manas - Kaggle
+
 Data source : for 2018-2019 - IPL T20 - Official website
