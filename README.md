@@ -1,6 +1,6 @@
 # Indian-Premier-Leauge-IPL-Analysis
 
-Some Information REgarding the Teams in IPL
+Some Information Regarding the Teams in IPL
 
 1.Pune Warriors India played for three Seasons(2011-2013).It was Terminated in 2013 beacuse of financial Problems.
 
